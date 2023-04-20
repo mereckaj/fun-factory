@@ -1,2 +1,2 @@
 # fun-factory
-Is this Benterprise Java?
+Is this Enterprise Java?
